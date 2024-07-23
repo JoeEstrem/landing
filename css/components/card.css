@@ -1,0 +1,23 @@
+.card-rectangle {
+  border: 1px solid rgb(25, 25, 25);
+  color: rgb(25, 25, 25);
+  background-color: rgb(252, 252, 252);
+  box-shadow: 0 0 4px rgb(25, 25, 25);
+  padding: 64px 18px 64px 18px;
+  width: 200px;
+  text-align: center;
+}
+
+.card-rectangle i {
+  font-size: 24px; /* Size of the icon */
+  margin-bottom: 10px; /* Space between icon and text */
+}
+
+.card-rectangle h2 {
+  margin: 10px 0; /* Space around the heading */
+  font-size: 20px; /* Font size for the heading */
+}
+
+.card-rectangle p {
+  font-size: 14px; /* Font size for the paragraph */
+}

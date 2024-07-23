@@ -1,0 +1,11 @@
+.footer {
+  padding: 24px 0;
+  background-color: rgb(25, 25, 25);
+  color: rgb(250, 250, 250);
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  align-items: center;
+  text-align: center;
+  font-size: 24px;
+}
